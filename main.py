@@ -78,9 +78,9 @@ def add(document: DocumentRequest):
     global documents_embeddings
 
     # Add the new document to the list
-    documents.append(document.text)
-    with open("documents.txt", "a") as f:
-        f.write(document.text + "\n")
+    # documents.append(document.text)
+    # with open("documents.txt", "a") as f:
+    #     f.write(document.text + "\n")
 
     # Convert to an embedding
     new_embedding_response = co.embed(
