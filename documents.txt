@@ -1,0 +1,7 @@
+Cohere builds large language models for NLP products.
+Machine learning models can power semantic search and recommendations.
+APIs allow software systems to communicate and serve users.
+Data pipelines process, clean, and transform information.
+CI/CD tools help developers ship code faster and more reliably.
+Octopuses have three hearts.
+Dogs can be brown
